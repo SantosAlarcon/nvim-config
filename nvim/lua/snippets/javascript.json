@@ -1,0 +1,26 @@
+{
+	"web-component": {
+		"prefix": "webc",
+		"body": [
+			"class ${1:ComponentName} extends HTMLElement {",
+			"\tconstructor() {",
+			"\t\tsuper();",
+			"\t\tthis.attachShadow({mode: 'open'});",
+			"\t}",
+			"",
+			"\trender() {",
+			"\t\treturn html`",
+			"\t\t\t<style>",
+			"\t\t\t\t:host {",
+			"\t\t\t\t\t/* styles go here */",
+			"\t\t\t\t}",
+			"\t\t\t</style>",
+			"\t\t\t<slot></slot>",
+			"\t\t`;",
+			"\t}",
+			"}",
+			"",
+			"customElements.define('${1:ComponentName}', ${1:ComponentName});"
+		]
+	}
+}
