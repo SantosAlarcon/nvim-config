@@ -22,3 +22,5 @@ La primera vez que se cargue la configuración tardará un poco porque tiene que
 + **Feline:** [https://github.com/famiu/feline.nvim](https://github.com/famiu/feline.nvim)
 + **Toggleterm:** [https://github.com/akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)
 + **Nvim-Treesitter:** [https://github.com/nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
++ **NvimTree:** [https://github.com/kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
++ **GitHub Theme:** [https://github.com/projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)

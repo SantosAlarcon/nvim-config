@@ -1,4 +1,4 @@
 {
-	"light": "@media (prefers-color-scheme: light) {\n\t$0\n}",
-	"dark": "@media (prefers-color-scheme: dark) {\n\t$0\n}"
+    "light": "@media (prefers-color-scheme: light) {\n\t$0\n}",
+    "dark": "@media (prefers-color-scheme: dark) {\n\t$0\n}"
 }
