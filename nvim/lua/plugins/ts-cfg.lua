@@ -4,7 +4,7 @@ return {
 		dependencies = {
 			"windwp/nvim-ts-autotag",
 		},
-		event = "BufEnter",
+		event = "BufReadPost",
 		config = function()
 			require("nvim-treesitter.configs").setup({
 
