@@ -40,4 +40,4 @@ vim.diagnostic.config({
 -- Configuración externa
 require("keys")
 require("lazy-cfg")
-require("neovide-cfg")
+--require("neovide-cfg")
